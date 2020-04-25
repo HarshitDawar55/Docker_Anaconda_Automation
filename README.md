@@ -18,3 +18,7 @@
 - To create the environment specified in the script, use command "conda create --name $environment_name".
 
 
+# LICENSE
+
+To check the license visit [LICENSE](https://github.com/HarshitDawar55/Docker_Anaconda_Automation/blob/master/docs/LICENSE.md) 
+
